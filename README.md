@@ -1,4 +1,6 @@
-Hi there! I am Quoc Chau, a software engineering student at Ton Duc Thang University who enjoys building software that is both practical and helpful. I like working across the full stack, exploring artificial intelligence, and building applications that make a positive difference.
+## Hi there! 
+
+I am Quoc Chau (or you can call me Jo), a software engineering student at Ton Duc Thang University who enjoys building software that is both practical and helpful. I like working across the full stack, exploring artificial intelligence, and building applications that make a positive difference.
 My technical toolkit includes working with modern web technologies, backend frameworks, databases, cloud tools, and machine learning concepts. I am always eager to learn, improve my skills, and take on new challenges. Take a look around my repositories, and feel free to connect if you want to chat or collaborate!
 
 ## Techstack (flexible)
