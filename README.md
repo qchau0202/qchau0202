@@ -1,13 +1,5 @@
-## 👋 Hey there, I'm Quoc Chau
-Thank you for stopping by! I am a Software Engineering student driven by a passion for building purposeful products. My journey in tech is a "learn-by-doing" mindset, often spent diving into self-study and personal projects.
-
-What I bring to the table:
-- Hands-on Development: Enthusiastic about turning ideas into functional software through proactive experimentation.
-- Collaborative Spirit: A firm believer in the power of teamwork, clear planning, and creative problem-solving.
-- Effective Communication: Fluent in English and comfortable navigating diverse, fast-paced environments.
-- Community Focused: Active in workshops and open-source exploration—I'm always looking for the next challenge to grow.
-
-I’m currently seeking new opportunities to learn and contribute. Let’s connect and build something meaningful together!
+Hi there! I am Quoc Chau, a software engineering student at Ton Duc Thang University who enjoys building software that is both practical and helpful. I like working across the full stack, exploring artificial intelligence, and building applications that make a positive difference.
+My technical toolkit includes working with modern web technologies, backend frameworks, databases, cloud tools, and machine learning concepts. I am always eager to learn, improve my skills, and take on new challenges. Take a look around my repositories, and feel free to connect if you want to chat or collaborate!
 
 ## Techstack (flexible)
 ### Main techstack
