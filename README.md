@@ -11,9 +11,9 @@
 
 ### About Me
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top; padding-right: 20px;" width="70%">
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
       I am a software engineering student who enjoys building software that is practical, reliable, and impactful. I like working across the full stack, exploring artificial intelligence, and designing clean digital experiences.
       <br/><br/>
       <ul>
@@ -22,10 +22,11 @@
         <li>🎮 <em>P.S. I also enjoy building fun games on the side!</em></li>
       </ul>
     </td>
-    <td style="border: none; vertical-align: top; text-align: center;" width="30%">
-      <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Happy Cat Animation" />
-      <br/>
-      <sub><em>I like cats :D</em></sub>
+    <td width="30%" align="center" valign="middle">
+      <div align="center">
+        <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Happy Cat Animation" /><br/>
+        <sub><em>I like cats :D</em></sub>
+      </div>
     </td>
   </tr>
 </table>
