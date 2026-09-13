@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Header Animation" />
   <br><br/>
-  <img src="./assets/header.png" width="100%" alt="Header Banner" />
+  <img src="linkedin-banner.png" width="100%" alt="Header Banner" />
   <h1>Hi there! I'm Chau (you can call me Jo)</h1>
   <p>Software Engineering Student @ Ton Duc Thang University</p>
   <a href="https://www.linkedin.com/in/quốc-châu-jo-b71879269" target="_blank">
