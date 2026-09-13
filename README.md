@@ -5,17 +5,30 @@
   <a href="https://www.linkedin.com/in/quốc-châu-jo-b71879269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-   <br><br/>
-    <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Header Animation" />
 </div>
 
 ---
 
 ### About Me
-I am a software engineering student who enjoys building software that is practical, reliable, and impactful. I like working across the full stack, exploring artificial intelligence, and designing clean digital experiences. 
-- 💻 Passionate about developing modern web & mobile applications.
-- 🧠 Continuously exploring machine learning systems and scalable backends.
-- 🎮 *P.S. I also enjoy building fun games on the side!*
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 20px;" width="70%">
+      I am a software engineering student who enjoys building software that is practical, reliable, and impactful. I like working across the full stack, exploring artificial intelligence, and designing clean digital experiences.
+      <br/><br/>
+      <ul>
+        <li>💻 Passionate about developing modern web &amp; mobile applications.</li>
+        <li>🧠 Continuously exploring machine learning systems and scalable backends.</li>
+        <li>🎮 <em>P.S. I also enjoy building fun games on the side!</em></li>
+      </ul>
+    </td>
+    <td style="border: none; vertical-align: top; text-align: center;" width="30%">
+      <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Happy Cat Animation" />
+      <br/>
+      <sub><em>I like cats :D</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
