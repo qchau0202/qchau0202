@@ -1,6 +1,6 @@
 <div align="center">
   <img src="linkedin-banner.png" width="100%" alt="Header Banner" />
-  <h1>Hi there! I'm Chau (you can call me Jo)</h1>
+  <h1>Good day, I'm Chau (or Jo) :D</h1>
   <p>Software Engineering Student @ Ton Duc Thang University</p>
   <a href="https://www.linkedin.com/in/quốc-châu-jo-b71879269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
@@ -14,18 +14,16 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      I am a software engineering student who enjoys building software that is practical, reliable, and impactful. I like working across the full stack, exploring artificial intelligence, and designing clean digital experiences.
+      Currently, I am pursuing Software Engineering degree. For me, what I enjoy the most is building apps, they could be Web apps, Mobile apps and more. I can do Full-stack, and I can also design too.
       <br/><br/>
-      <ul>
-        <li>💻 Passionate about developing modern web &amp; mobile applications.</li>
-        <li>🧠 Continuously exploring machine learning systems and scalable backends.</li>
-        <li>🎮 <em>P.S. I also enjoy building fun games on the side!</em></li>
-      </ul>
+     <p>
+       <em>P.S. I also enjoy building fun games on the side too :> </em>
+     </p>
     </td>
     <td width="30%" align="center" valign="middle">
       <div align="center">
         <img height="150" src="https://media1.tenor.com/m/lfDATg4Bhc0AAAAC/happy-cat.gif" alt="Happy Cat Animation" /><br/>
-        <sub><em>I like cats :D</em></sub>
+        <sub><em>Cats are cute right :D</em></sub>
       </div>
     </td>
   </tr>
