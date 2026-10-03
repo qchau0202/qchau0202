@@ -14,7 +14,7 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      Currently, I am pursuing Software Engineering degree. For me, what I enjoy the most is building apps, they could be Web apps, Mobile apps and more. I can do Full-stack, and I can also design too.
+      Currently, I am pursuing Software Engineering degree. For me, what I enjoy the most is building apps, they could be Web apps, Mobile apps and more. I can do Full-stack, and I can also design too. On what I am doing and my activities, please give this portfolio a visit 👉 https://qchau-portfolio.vercel.app/ (I really appreciate that <3)
       <br/><br/>
      <p>
        <em>P.S. I also enjoy building fun games on the side too :> </em>
